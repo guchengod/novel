@@ -5,6 +5,7 @@
     <a href='https://github.com/201206030/novel'><img alt="Github forks" src="https://img.shields.io/github/forks/201206030/novel?logo=github"></a>
     <a href='https://gitee.com/novel_dev_team/novel'><img alt="Gitee stars" src="https://gitee.com/novel_dev_team/novel/badge/star.svg?theme=gitee"></a>
     <a href='https://gitee.com/novel_dev_team/novel'><img alt="Gitee forks" src="https://gitee.com/novel_dev_team/novel/badge/fork.svg?theme=gitee"></a>
+    <a href='https://gitcode.com/xxyopen/novel'><img alt="GitCode star" src="https://gitcode.com/xxyopen/novel/star/badge.svg"></a>
 </p>
 
 ## 项目简介
